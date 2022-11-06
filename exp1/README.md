@@ -2,7 +2,7 @@
 
 ### .
 
-# To create a database table and to display the database table field using SQLite Database in Android Studio
+# Create a database table and to display the database table field using SQLite Database in Android Studio
 
 
 
