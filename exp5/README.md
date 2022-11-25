@@ -1,8 +1,8 @@
 ### EXP NO: 05
 
-### .
-
-#  Develop a simple application for proximity sensor using Sensor Manager in android studio.
+### Date:09/11/1022
+# <p align="center">Develop a simple application for proximity sensor using Sensor Manager in android studio.
+ </p>
 
 
 ## AIM:
