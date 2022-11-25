@@ -1,8 +1,9 @@
 ### EXP NO: 02
 
-### .
+### Date:20/09/2022
+# <p align="center">Create a simple application client and server service using AIDL interface in android studio.
+ </p>
 
-# Create a simple application client and server service using AIDL interface in android studio.
 
 
 ## AIM:
