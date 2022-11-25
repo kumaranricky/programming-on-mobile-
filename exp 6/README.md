@@ -30,12 +30,12 @@ Step 6: Declare the permission in the Android Manifest file
 Step 7: Save and run the application.
 
 
-## </br></br></br></br></br></br></br>PROGRAM:
+## PROGRAM:
 ```
 Developed by: Kumaran B
 Registeration Number : 212220230026
 ```
-Activity_Main.xml
+<br><br><br><br>Activity_Main.xml
 
 
 ```java
@@ -96,12 +96,10 @@ Manifest.xml
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>
-
 </manifest>
 
 ```
@@ -111,7 +109,6 @@ MainActivity.java
 
 ```java
 package com.example.runtime;
-
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
@@ -189,8 +186,16 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-## </br></br></br></br></br></br></br></br></br></br></br></br>OUTPUT
-</br></br>
+## </br>OUTPUT
+
+![Screenshot (494)](https://user-images.githubusercontent.com/75243072/203921270-4e2cec11-7b06-47e4-9399-d3dbb82ead6d.png)
+
+![Screenshot (490)](https://user-images.githubusercontent.com/75243072/203921366-53815f07-6c9a-49e0-873f-faa02c44ac40.png)
+
+![Screenshot (491)](https://user-images.githubusercontent.com/75243072/203921401-a204b560-8222-46a2-b896-faad68472f71.png)
+
+![Screenshot (493)](https://user-images.githubusercontent.com/75243072/203921562-b04dd32d-4163-4cad-ba7f-14a4db9192a7.png)
+
 
 
 ## RESULT
