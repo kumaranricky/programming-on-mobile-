@@ -1,8 +1,8 @@
 ### EXP NO: 04
 
-### .
-
-#  Develop a simple application to display the avaliable sensor in android mobile devices using Sensor Manager in android studio.
+### Date:29/10/2022
+# <p align="center">Develop a simple application to display the avaliable sensor in android mobile devices using Sensor Manager in android studio.
+ </p>
 
 
 ## AIM:
