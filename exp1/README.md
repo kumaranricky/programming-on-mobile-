@@ -1,8 +1,9 @@
 ### EXP NO: 01
 
-### .
+### Date:07/09/2022
+# <p align="center"> Create a database table and to display the database table field using SQLite Database in Android Studio
+ </p>
 
-# Create a database table and to display the database table field using SQLite Database in Android Studio
 
 
 
@@ -326,7 +327,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
 
 
-## </br></br></br></br></br></br></br></br></br></br><br>OUTPUT
+## </br></br></br></br></br></br></br></br></br>OUTPUT
 
 ![Screenshot (428)](https://user-images.githubusercontent.com/75243072/191236704-d6e283ff-2233-4444-9d18-9f39fbee5ff7.png)
 
