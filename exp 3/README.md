@@ -1,9 +1,10 @@
 
 ### EXP NO: 03
 
-### .
+### Date:11/10/2022
+# <p align="center">Develop a simple application to play and control the audio file in android studio.
+ </p>
 
-# Develop a simple application to play and control the audio file in android studio.
 
 
 
@@ -37,7 +38,7 @@ Developed by: Kumaran B
 Reg Number : 212220230026
 ```
 
-activitymain.xml:
+</br></br></br></br>activitymain.xml:
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -166,6 +167,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-## </br></br></br></br>RESULT
+## </br></br>RESULT
 Thus a Simple Android Application To Develop a simple application to play and control the audio file in android studio is developed and executed successfully.
 
